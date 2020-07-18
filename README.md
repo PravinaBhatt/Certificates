@@ -1,2 +1,2 @@
 # Certificates
-This repository is collection of all certificates I am collecting for my skill development.
+This repository is collection of all professional knowledge I am gathering for my skill development in a form of certificates.
